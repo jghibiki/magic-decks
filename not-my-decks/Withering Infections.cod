@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Withering Infections</deckname>
+    <comments>Either win through infect/proliferate or through a storm of -1/-1 counters. The idea is to spend very little money and have a competitive deck to play against your friends with lots of money to spend.</comments>
+    <zone name="main">
+        <card number="20" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Blowfly Infestation"/>
+        <card number="2" price="0" name="Contagion Clasp"/>
+        <card number="2" price="0" name="Crumbling Ashes"/>
+        <card number="4" price="0" name="Grim Affliction"/>
+        <card number="4" price="0" name="Scar"/>
+        <card number="4" price="0" name="Virulent Wound"/>
+        <card number="4" price="0" name="Ichor Rats"/>
+        <card number="4" price="0" name="Flesh-Eater Imp"/>
+        <card number="4" price="0" name="Kulrath Knight"/>
+        <card number="2" price="0" name="Midnight Banshee"/>
+        <card number="4" price="0" name="Plague Stinger"/>
+        <card number="4" price="0" name="Septic Rats"/>
+    </zone>
+</cockatrice_deck>

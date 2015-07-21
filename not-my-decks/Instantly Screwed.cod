@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
     <deckname>Instantly Screwed</deckname>
-    <comments></comments>
+    <comments>Another $20 winner from Notchbeard. Punish them for daring to cast a spell at you. Leave them wondering how they lost. The idea is to spend very little money and have a competitive deck to play against your friends who have tons to spend.</comments>
     <zone name="main">
         <card number="8" price="0" name="Island"/>
         <card number="4" price="0" name="Izzet Guildgate"/>

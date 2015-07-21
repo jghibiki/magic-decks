@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Are you afraid to draw?</deckname>
+    <comments>STRATEGIES: Let the enemy draw, do not fear. 
+
+--Seems like a troll deck</comments>
+    <zone name="main">
+        <card number="20" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Reliquary Tower"/>
+        <card number="4" price="0" name="Sign in Blood"/>
+        <card number="4" price="0" name="Howling Mine"/>
+        <card number="4" price="0" name="Dark Deal"/>
+        <card number="4" price="0" name="Underworld Dreams"/>
+        <card number="4" price="0" name="Spiteful Visions"/>
+        <card number="4" price="0" name="Kederekt Parasite"/>
+        <card number="4" price="0" name="Master of the Feast"/>
+        <card number="4" price="0" name="Manaforge Cinder"/>
+        <card number="2" price="0" name="Psychosis Crawler"/>
+        <card number="1" price="0" name="Seizan, Perverter of Truth"/>
+    </zone>
+</cockatrice_deck>
